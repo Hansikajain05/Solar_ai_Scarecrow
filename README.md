@@ -1,5 +1,5 @@
 # Solar AI Scarecrow
-![Our Solar AI Scarecrow](images/scarecrow.jpeg)
+![Our Solar AI Scarecrow](./https://github.com/Hansikajain05/Solar_ai_Scarecrow/blob/main/scarecrow.jpeg)
 
 ![Breadboard wiring](images/wiring.jpeg)
 
