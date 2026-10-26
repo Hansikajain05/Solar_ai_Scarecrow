@@ -1,7 +1,7 @@
 # Solar AI Scarecrow
-![Our Solar AI Scarecrow](./https://github.com/Hansikajain05/Solar_ai_Scarecrow/blob/main/scarecrow.jpeg)
+![Our Solar AI Scarecrow](scarecrow.jpeg)
 
-![Breadboard wiring](images/wiring.jpeg)
+![Breadboard wiring]()
 
 A low-cost scarecrow that uses an **ESP32-CAM**, a **PIR motion sensor** and a small
 **Edge Impulse image-classification model** to detect birds and scare them away with a
