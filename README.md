@@ -1,5 +1,5 @@
 # Solar AI Scarecrow
-![Our Solar AI Scarecrow]("C:\Users\acer\Downloads\imagesproject.jpeg")
+![Our Solar AI Scarecrow]("images/imagesphoto.jpeg")
 
 ![Breadboard wiring](images/wiring.jpeg)
 
