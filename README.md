@@ -1,5 +1,5 @@
 # Solar AI Scarecrow
-![Our Solar AI Scarecrow]("images/imagesphoto.jpeg")
+![Our Solar AI Scarecrow](images/scarecrow.jpeg)
 
 ![Breadboard wiring](images/wiring.jpeg)
 
